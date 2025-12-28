@@ -11,7 +11,7 @@ Explore feminist history through code. Responsive HTML/CSS/JS website celebratin
   - **Custom CSS Vars**: Pink/blue/orange feminist color system
 
 **Clean Export**: Google Sites → HTML with zero bloat. Ready for GitHub Pages migration.
-[Source Code]([tree/main](https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/html_code)) | [Demo]([https://husseim-stuck.github.io/website-feminist-park](https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/README.md))
+[Source Code]((https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/html_code)) | [Demo](https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/README.md)
 
 **Project Overview**
 Feminist Park is a responsive, interactive website that serves as a digital monument to women's contributions to public spaces, civic life, and community building throughout history. This project reimagines the concept of a "park" as both a physical sanctuary and a digital space for reflection, education, and celebration of feminist history.
