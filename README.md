@@ -1,14 +1,15 @@
 # website-html_feminist-park www.feminist-park.org
 Explore feminist history through code. Responsive HTML/CSS/JS website celebrating women &amp; public spaces. Built with semantic HTML5, accessible design principles, CSS Grid/Flexbox &amp; mobile-first methodology. Portfolio project demonstrating web fundamentals + purpose-driven development.
 
-## 🌸 Feminist Park - Technical Breakdown
+##Feminist Park - Technical Breakdown
 **Live**: [www.feminist-park.org](https://www.feminist-park.org) | **Tech**: Tailwind CSS • GTM Analytics • Dynamic SVG • JS SPA
 
 **Key Features**:
   - **Knockout Text + SVG Backdrops**: Theme-adaptive geometric park visuals
-  - **Google Tag Manager**: Event tracking for activism KPIs  
   - **Responsive SPA**: 12+ pages, 0.8s transitions, mobile-first Tailwind
   - **Custom CSS Vars**: Pink/blue/orange feminist color system
+  - **Google Tag Manager**: Event tracking for activism KPIs
+<img width="700" height="392" alt="Screenshot 2025-12-28 at 20 43 51" src="https://github.com/user-attachments/assets/fd9cc81e-a389-41c0-9997-48b90fb21841" />  
 
 **Clean Export**: Google Sites → HTML with zero bloat. Ready for GitHub Pages migration.
 [Source Code](https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/html_code) | [Demo](https://github.com/Husseim-Stuck-Portfolio/website-html_feminist-park/blob/main/README.md)
@@ -20,13 +21,14 @@ The website explores the intersection of urban planning, social justice, and wom
 **Project Purpose & Mission**
 Why a Feminist Park?
 Public spaces have historically been designed by and for men, often excluding or limiting women's access, safety, and participation. From parks that lacked adequate lighting for evening safety, to the absence of public restrooms, to hostile architecture that discourages mothers with children—urban design has reflected and reinforced gender inequalities.
+
 This digital park serves multiple purposes:
 
-Historical Recognition: Documenting women who fought for equitable public spaces
-Educational Resource: Teaching visitors about feminist urban planning and design principles
-Digital Accessibility: Creating an inclusive online space that models the accessibility often missing from physical parks
-Inspiration: Showcasing how intentional design can create safer, more inclusive communities
-Call to Action: Encouraging visitors to advocate for better public spaces in their own communities
+-Historical Recognition: Documenting women who fought for equitable public spaces
+-Educational Resource: Teaching visitors about feminist urban planning and design principles
+-Digital Accessibility: Creating an inclusive online space that models the accessibility often missing from physical parks
+-Inspiration: Showcasing how intentional design can create safer, more inclusive communities
+-Call to Action: Encouraging visitors to advocate for better public spaces in their own communities through a survey
 
 **About the Website**
 The HTML code for feminist-park.org is a sophisticated single-page application (SPA) built with Tailwind CSS, Google Tag Manager, Lucide icons, and dynamic JavaScript for smooth page transitions. It exports cleanly from Google Sites while adding modern frontend techniques like CSS custom properties, knockout text effects, and theme-adaptive SVG backdrops
